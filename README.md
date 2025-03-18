@@ -36,14 +36,6 @@ Contract Address: 0x002117753C9b143699e6094a5553DD9403087bC8;
 - Integrate [Push Notifications](https://docs.push.org/developers) for real-time updates among users.
 
 
-## 👩‍💻 Team members
-
-- **Raunak Singh Kalsi**
-- **Rucha Patil**
-- **Unmani Shinde**
-- **Siddhant Baheti**
-- **Ishaan Chandak**
-- **Komal Sambhus**
 
 
 
